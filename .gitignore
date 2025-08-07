@@ -1,0 +1,24 @@
+# File-file yang dihasilkan oleh Flutter dan Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# File konfigurasi IDE
+.idea/
+.vscode/
+
+# File log dan sistem operasi
+*.log
+.DS_Store
+
+# File kredensial dan environment rahasia (SANGAT PENTING)
+.env
+serviceAccountKey.json
